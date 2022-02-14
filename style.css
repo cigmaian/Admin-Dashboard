@@ -419,4 +419,16 @@ a{
     font-size: 1.1rem;
 }
 
-
+/*
+    .content .projects{
+        position: relative;
+    }
+    .project::before{
+    content: '';
+    position: absolute;
+    height: 45vh;
+    bottom: -10px;
+    width: 6px;
+    background-color: red;
+}
+    
