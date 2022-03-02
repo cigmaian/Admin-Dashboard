@@ -61,16 +61,17 @@ table {
 .header{
     grid-column: 2/3;
     background-color: #EEFBFB;
-    
+    width: 100%;
 }
 
 .top{
     display: flex;
     align-items: center;
-    width: 100%;
+    width: 85vw;
+    margin-top: 18px;
 }
 .search-section{
-    width: 60vw;
+    width: 70vw;
     display: flex;
     align-items: center;
     margin-left: 30px;
@@ -94,8 +95,7 @@ table {
     width: 75%;
     background-color: #4DA8DA;
     border-radius: 15px;
-    margin-left: 20px;
-    
+    margin-left: 20px;  
 }
 
 .profile-section{
@@ -125,12 +125,12 @@ table {
     display: flex;
     align-items: center;
     padding: 10px 0;
-    
+    width: 85vw;
 }
 .start-container{
-    width: 65vw;
+    width: 63vw;
     display: flex;
-    margin-left: 38px;
+    padding-left: 35px;
 }
 .user-profile-big{
     display: block;
@@ -156,19 +156,18 @@ table {
 }
 
 .btn-contorl{
-    width: 10vw;
+    width: 20vw;
     display: flex;
     justify-content: space-evenly;
-    
 }
 .btn-contorl button{
     display: inline-block;
-    padding: 0.4rem 1.3rem;
-    margin: 0 1rem;
+    padding: 0.4rem 1.4rem;
+    margin: 0 0.6rem;
     border-radius: 20px;
     border: none;
     font-weight: 800;
-    background-color:  #007CC7;
+    background-color:  #4DA8DA;
     cursor: pointer;
     font-size: 1.5rem;
 }
@@ -243,7 +242,7 @@ a{
     
     gap: 30px; 
     height: auto;
-    width: auto;
+    
 }
 
 
