@@ -6,5 +6,5 @@ ive version of the project is __[here](https://cigmaian.github.io/Admin-Dashboar
 
 ## Knowledge gained
  
--Better understanding of the grid
+- Better understanding of the grid
 
