@@ -1,7 +1,7 @@
 # Project Admin Dashboard
 
 A simple dashboard made with HTML, Grid and Flexbox!
-ive version of the project is __[here](https://cigmaian.github.io/Admin-Dashboard/)__.
+Live version of the project is __[here](https://cigmaian.github.io/Admin-Dashboard/)__.
 
 
 ## Knowledge gained
